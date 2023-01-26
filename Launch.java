@@ -7,6 +7,8 @@ class launch
 
      {
          //some code
+system hello java lovers
+
       }
 
 
